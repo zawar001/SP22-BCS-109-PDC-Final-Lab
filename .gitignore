@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log
+
+# React Native
+android/
+ios/build/
+*.log
+
+# Python
+ai-microservice/venv/
+__pycache__/
+
+# Misc
+.DS_Store
+
