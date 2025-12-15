@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-package imageclassifier;
-
 service ImageClassifier {
   rpc UploadImage (ImageRequest) returns (ImageResponse);
 }
